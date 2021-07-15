@@ -1,1 +1,1 @@
-https://github.com/54/check-runs/123/old
+https://github.com/old
